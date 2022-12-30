@@ -1,0 +1,23 @@
+{
+  "name": "curso-js-async-landing",
+  "version": "1.0.0",
+  "description": "Landing del curso de Asincronismo con JS de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriansotoh/curso-js-async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriansotoh/curso-js-async-landing/issues"
+  },
+  "homepage": "https://github.com/adriansotoh/curso-js-async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
